@@ -1,2 +1,2 @@
 # Diabetes-Predictor
-Prediction of Diabetes disease
+Prediction of Diabetes
